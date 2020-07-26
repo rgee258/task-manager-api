@@ -1,6 +1,6 @@
 # Task Manager API
 
-A backend focused task manager API using Node.js in Express as part of lessons for gaining more experience with Node.
+A backend focused task manager API using Node.js in Express as part of The Complete Node.js Developer Course available on Udemy.
 
 This application allows one to connect to a local mongoDB database to register users, log them in, and allow them to create and access tasks. 
 
